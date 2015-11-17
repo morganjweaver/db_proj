@@ -33,7 +33,7 @@
         <!-- main-->
 
         <section class="main col col-lg-10">
-            <h2>New Application</h2>
+            <h2>New Student Application</h2>
 
             <form action="app_pg_2.php" class="form-horizontal" method="post">
 
