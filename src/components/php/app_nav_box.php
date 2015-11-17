@@ -6,7 +6,7 @@
     <a href="app_pg_2.php" class="list-group-item" id="link_pers_info">Personal Information</a>
 
     <!--app_info-->
-    <a href="app_pg3.php" class="list-group-item" id="link_app_info">Application Information</a>
+    <a href="app_pg_3.php" class="list-group-item" id="link_app_info">Application Information</a>
 
     <!--educ_hist-->
     <a href="#" class="list-group-item" id="link_educ_hist">Educational History</a>
