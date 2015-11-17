@@ -1,11 +1,4 @@
-<?php
-/**
- * User: Yevgeni
- * Date: 11/15/2015
- * Time: 11:48 PM
- */
-
-?>
+<!--navbar and branding-->
 
 <div class="content row">
     <div class="col-lg-12">
