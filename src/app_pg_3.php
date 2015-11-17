@@ -28,58 +28,93 @@
         </section><!-- main-->
 
         <section class="main col col-lg-10">
-            <h2>New Application</h2>
+            <h2>Application Information</h2>
 
 			<form action="#" class="form-horizontal">
 
                 <div class="form-group">
-                    <label for="student_type">What type of student are you?</label>
-                    <select class="form-control" name="student_type">
-                        <option value="#">---Select---</option>
-                        <option value="#">1</option>
-                        <option value="#">2</option>
-                        <option value="#">3</option>
-                    </select>
+                    <label>Will you be applying for financial aid?</label>
+					<div class="radio">
+						<label>
+							<input type="radio" name="us_citizen" value="true">
+							Yes
+						</label>
+					</div>					
+					<div class="radio">
+						<label>
+							<input type="radio" name="us_citizen" value="true">
+							No
+						</label>
+					</div>					
 				</div>
 
                 <div class="form-group">
-                    <label for="applying_college">Which College are you applying to?</label>
-                    <select class="form-control" name="applying_college">
-                        <option value="#">---Select---</option>
-                        <option value="#">1</option>
-                        <option value="#">2</option>
-                        <option value="#">3</option>
-                    </select>
+                    <label>Do you have employer tuition assistance?</label>
+					<div class="radio">
+						<label>
+							<input type="radio" name="us_citizen" value="true">
+							Yes
+						</label>
+					</div>					
+					<div class="radio">
+						<label>
+							<input type="radio" name="us_citizen" value="true">
+							No
+						</label>
+					</div>					
 				</div>
 
                 <div class="form-group">
-                    <label for="degree_type">Please select the Degree you are applying to?</label>
-                    <select class="form-control" name="degree_type">
-                        <option value="#">---Select---</option>
-                        <option value="#">1</option>
-                        <option value="#">2</option>
-                        <option value="#">3</option>
-                    </select>
+                    <label>Are you also applying to other programs?</label>
+					<div class="radio">
+						<label>
+							<input type="radio" name="us_citizen" value="true">
+							Yes
+						</label>
+					</div>					
+					<div class="radio">
+						<label>
+							<input type="radio" name="us_citizen" value="true">
+							No
+						</label>
+					</div>					
 				</div>
 
                 <div class="form-group">
-                    <label for="major_type">Please select the Major you are applying to?</label>
-                    <select class="form-control" name="major_type">
-                        <option value="#">---Select---</option>
-                        <option value="#">1</option>
-                        <option value="#">2</option>
-                        <option value="#">3</option>
-                    </select>
+                    <label>Have you ever been convicted of a felony or a gross misdemeanor?</label>
+					<div class="radio">
+						<label>
+							<input type="radio" name="us_citizen" value="true">
+							Yes
+						</label>
+					</div>					
+					<div class="radio">
+						<label>
+							<input type="radio" name="us_citizen" value="true">
+							No
+						</label>
+					</div>					
 				</div>
-
+				
+				<div class="well well-sm">A conviction will not necessarily bar admission but will require additional documentation prior
+					to a decision. You will be contacted shortly via email with instructions on reporting the nature 
+					of your conviction.</div>
+					
                 <div class="form-group">
-                    <label for="applying_term">Please select the Term you plan on starting?</label>
-                    <select class="form-control" name="applying_term">
-                        <option value="#">---Select---</option>
-                        <option value="#">1</option>
-                        <option value="#">2</option>
-                        <option value="#">3</option>
-                    </select>
+                    <label>Have you ever been placed on probation, suspended from, dismissed from or
+					otherwise sanctioned by (for any period of time) any higher education institution?</label>
+					<div class="radio">
+						<label>
+							<input type="radio" name="us_citizen" value="true">
+							Yes
+						</label>
+					</div>					
+					<div class="radio">
+						<label>
+							<input type="radio" name="us_citizen" value="true">
+							No
+						</label>
+					</div>					
 				</div>
             </form>
 
