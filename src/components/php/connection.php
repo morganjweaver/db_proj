@@ -2,7 +2,7 @@
 $servername='cssql.seattleu.edu';
 $username='uemurar';
 $password='HgVXuk6P';
-$dbname=cs5021team5;
+$dbname='cs5021team5';
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 if(!$conn){

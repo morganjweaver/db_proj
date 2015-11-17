@@ -5,7 +5,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
     <title>
-        New Student Application
+        New Application
     </title>
 
     <meta name="description" content="">
@@ -22,8 +22,8 @@
 <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
     your browser</a> to improve your experience.</p>
 <![endif]-->
-<?php include "components/php/connection.php"; 
-include "components/php/header.php"; 
+<?php include "components/php/connection.php";
+include "components/php/header.php";
 $sql_student_types = "SELECT * FROM ddview_student_types";
 $sql_colleges = "SELECT * FROM ddview_colleges";
 $sql_degree_types = "SELECT * FROM ddview_degree_types";
@@ -53,15 +53,15 @@ $result_terms = mysqli_query($conn, $sql_terms);
                     <label for="student_type">What type of student are you?</label>
                     <select class="form-control" name="student_type" id="student_type">
                         <option value="#">---Select---</option>
-						<?php
-							if(mysqli_num_rows($result_student_types) > 0){
-								while($row = mysqli_fetch_row($result_student_types)){
-									echo "<option value='" . $row[0] . "'>" . $row[1] . "</option>\n";
-								}
-							}else{
-								echo "0 results";
-							}
-						?>
+                        <?php
+                        if(mysqli_num_rows($result_student_types) > 0){
+                            while($row = mysqli_fetch_row($result_student_types)){
+                                echo "<option value='" . $row[0] . "'>" . $row[1] . "</option>\n";
+                            }
+                        }else{
+                            echo "0 results";
+                        }
+                        ?>
                     </select>
                 </div>
 
@@ -69,15 +69,15 @@ $result_terms = mysqli_query($conn, $sql_terms);
                     <label for="applying_college">Which College are you applying to?</label>
                     <select class="form-control" name="applying_college" id="applying_college">
                         <option value="#">---Select---</option>
-						<?php
-							if(mysqli_num_rows($result_colleges) > 0){
-								while($row = mysqli_fetch_row($result_colleges)){
-									echo "<option value='" . $row[0] . "'>" . $row[1] . "</option>\n";
-								}
-							}else{
-								echo "0 results";
-							}
-						?>
+                        <?php
+                        if(mysqli_num_rows($result_colleges) > 0){
+                            while($row = mysqli_fetch_row($result_colleges)){
+                                echo "<option value='" . $row[0] . "'>" . $row[1] . "</option>\n";
+                            }
+                        }else{
+                            echo "0 results";
+                        }
+                        ?>
                     </select>
                 </div>
 
@@ -85,15 +85,15 @@ $result_terms = mysqli_query($conn, $sql_terms);
                     <label for="degree_type">Please select the Degree you are applying to?</label>
                     <select class="form-control" name="degree_type" id="degree_type">
                         <option value="#">---Select---</option>
-						<?php
-							if(mysqli_num_rows($result_degree_types) > 0){
-								while($row = mysqli_fetch_row($result_degree_types)){
-									echo "<option value='" . $row[0] . "'>" . $row[1] . "</option>\n";
-								}
-							}else{
-								echo "0 results";
-							}
-						?>
+                        <?php
+                        if(mysqli_num_rows($result_degree_types) > 0){
+                            while($row = mysqli_fetch_row($result_degree_types)){
+                                echo "<option value='" . $row[0] . "'>" . $row[1] . "</option>\n";
+                            }
+                        }else{
+                            echo "0 results";
+                        }
+                        ?>
                     </select>
                 </div>
 
@@ -101,15 +101,15 @@ $result_terms = mysqli_query($conn, $sql_terms);
                     <label for="major_type">Please select the Major you are applying to?</label>
                     <select class="form-control" name="major_type" id="major_type">
                         <option value="#">---Select---</option>
-						<?php
-							if(mysqli_num_rows($result_major_types) > 0){
-								while($row = mysqli_fetch_row($result_major_types)){
-									echo "<option value='" . $row[0] . "'>" . $row[1] . "</option>\n";
-								}
-							}else{
-								echo "0 results";
-							}
-						?>
+                        <?php
+                        if(mysqli_num_rows($result_major_types) > 0){
+                            while($row = mysqli_fetch_row($result_major_types)){
+                                echo "<option value='" . $row[0] . "'>" . $row[1] . "</option>\n";
+                            }
+                        }else{
+                            echo "0 results";
+                        }
+                        ?>
                     </select>
                 </div>
 
@@ -117,15 +117,15 @@ $result_terms = mysqli_query($conn, $sql_terms);
                     <label for="applying_term">Please select the Term you plan on starting?</label>
                     <select class="form-control" name="applying_term" id="applying_term">
                         <option value="#">---Select---</option>
-						<?php
-							if(mysqli_num_rows($result_terms) > 0){
-								while($row = mysqli_fetch_row($result_terms)){
-									echo "<option value='" . $row[0] . "'>" . $row[1] . "</option>\n";
-								}
-							}else{
-								echo "0 results";
-							}
-						?>
+                        <?php
+                        if(mysqli_num_rows($result_terms) > 0){
+                            while($row = mysqli_fetch_row($result_terms)){
+                                echo "<option value='" . $row[0] . "'>" . $row[1] . "</option>\n";
+                            }
+                        }else{
+                            echo "0 results";
+                        }
+                        ?>
                     </select>
                 </div>
 

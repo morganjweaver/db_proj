@@ -28,7 +28,5 @@
             </ul>
         </section><!-- navbar -->
 
-
-
     </div>
 </div>
