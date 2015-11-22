@@ -1,5 +1,5 @@
 <?php
-include "components/php/connection.php";
+require "components/php/connection.php";
 $page_title = "New Application";
 $page_id = "new_app";
 include "components/php/html_head_tags.php"; ?>

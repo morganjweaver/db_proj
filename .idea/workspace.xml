@@ -21,7 +21,86 @@
     <favorites_list name="Web" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="app_pg_1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app_pg_1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.42767295">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <marker date="1447798326912" expanded="true" signature="231:384" placeholder="..." />
+                <marker date="1447798326912" expanded="true" signature="324:352" placeholder="..." />
+                <marker date="1447798326912" expanded="true" signature="477:511" placeholder="SELECT * FRO..ddview_student_types..." />
+                <marker date="1447798326912" expanded="true" signature="536:565" placeholder="SELECT * FRO..ddview_colleges..." />
+                <marker date="1447798326912" expanded="true" signature="594:627" placeholder="SELECT * FRO..ddview_degree_types..." />
+                <marker date="1447798326912" expanded="true" signature="655:687" placeholder="SELECT * FRO..ddview_major_types..." />
+                <marker date="1447798326912" expanded="true" signature="709:735" placeholder="SELECT * FRO..ddview_terms..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_pg_2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app_pg_2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-119.05882">
+              <caret line="191" column="25" selection-start-line="191" selection-start-column="25" selection-end-line="191" selection-end-column="25" />
+              <folding>
+                <marker date="1447746930138" expanded="true" signature="239:392" placeholder="..." />
+                <marker date="1447746930138" expanded="true" signature="332:360" placeholder="..." />
+                <marker date="1447746930138" expanded="true" signature="478:505" placeholder="SELECT * FRO..ddview_states..." />
+                <marker date="1447746930138" expanded="true" signature="529:557" placeholder="SELECT * FRO..ddview_genders..." />
+                <marker date="1447746930138" expanded="true" signature="590:627" placeholder="SELECT * FRO..ddview_veteran_statuses..." />
+                <marker date="1447746930138" expanded="true" signature="656:689" placeholder="SELECT * FRO..ddview_mil_branches..." />
+                <marker date="1447746930138" expanded="true" signature="717:749" placeholder="SELECT * FRO..ddview_ethnicities..." />
+                <marker date="1447746930138" expanded="true" signature="8061:8314" placeholder="..." />
+                <marker date="1447746930138" expanded="true" signature="8093:8287" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html_head_tags.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/php/html_head_tags.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.294118">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/php/connection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.735294">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="GulpTreeLayoutManager">
     <layout place="tools.popup">
@@ -42,10 +121,10 @@
         <option value="$PROJECT_DIR$/src/components/php/logo_nav_bar.php" />
         <option value="$PROJECT_DIR$/src/components/php/app_nav_box.php" />
         <option value="$PROJECT_DIR$/src/js/main.js" />
-        <option value="$PROJECT_DIR$/src/app_pg_1.php" />
         <option value="$PROJECT_DIR$/src/app_pg_3.php" />
         <option value="$PROJECT_DIR$/src/_index.php" />
         <option value="$PROJECT_DIR$/src/app_pg_2.php" />
+        <option value="$PROJECT_DIR$/src/app_pg_1.php" />
       </list>
     </option>
   </component>
@@ -113,8 +192,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -144,6 +221,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MS3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -205,40 +300,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MS3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sql" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -350,24 +415,24 @@
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32357043" sideWeight="0.5015625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39609483" sideWeight="0.5015625" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32357043" sideWeight="0.4984375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32357043" sideWeight="0.496875" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32981715" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14023438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14023438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32981715" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39609483" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3837838" sideWeight="0.4984375" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32981715" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -392,13 +457,13 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_student_types..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_colleges..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_degree_types..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_major_types..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_terms..." />
+            <marker date="1447798326912" expanded="true" signature="231:384" placeholder="..." />
+            <marker date="1447798326912" expanded="true" signature="324:352" placeholder="..." />
+            <marker date="1447798326912" expanded="true" signature="477:511" placeholder="SELECT * FRO..ddview_student_types..." />
+            <marker date="1447798326912" expanded="true" signature="536:565" placeholder="SELECT * FRO..ddview_colleges..." />
+            <marker date="1447798326912" expanded="true" signature="594:627" placeholder="SELECT * FRO..ddview_degree_types..." />
+            <marker date="1447798326912" expanded="true" signature="655:687" placeholder="SELECT * FRO..ddview_major_types..." />
+            <marker date="1447798326912" expanded="true" signature="709:735" placeholder="SELECT * FRO..ddview_terms..." />
           </folding>
         </state>
       </provider>
@@ -408,28 +473,15 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding>
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_states..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_states..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_genders..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_veteran_status..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_veteran_statuses..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_mil_branch..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_mil_branches..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_ethnicities..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1447746930138" expanded="true" signature="239:392" placeholder="..." />
+            <marker date="1447746930138" expanded="true" signature="332:360" placeholder="..." />
+            <marker date="1447746930138" expanded="true" signature="478:505" placeholder="SELECT * FRO..ddview_states..." />
+            <marker date="1447746930138" expanded="true" signature="529:557" placeholder="SELECT * FRO..ddview_genders..." />
+            <marker date="1447746930138" expanded="true" signature="590:627" placeholder="SELECT * FRO..ddview_veteran_statuses..." />
+            <marker date="1447746930138" expanded="true" signature="656:689" placeholder="SELECT * FRO..ddview_mil_branches..." />
+            <marker date="1447746930138" expanded="true" signature="717:749" placeholder="SELECT * FRO..ddview_ethnicities..." />
+            <marker date="1447746930138" expanded="true" signature="8061:8314" placeholder="..." />
+            <marker date="1447746930138" expanded="true" signature="8093:8287" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -446,7 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -471,13 +522,13 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="34" column="62" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
           <folding>
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_student_types..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_colleges..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_degree_types..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_major_types..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_terms..." />
+            <marker date="1447798326912" expanded="true" signature="231:384" placeholder="..." />
+            <marker date="1447798326912" expanded="true" signature="324:352" placeholder="..." />
+            <marker date="1447798326912" expanded="true" signature="477:511" placeholder="SELECT * FRO..ddview_student_types..." />
+            <marker date="1447798326912" expanded="true" signature="536:565" placeholder="SELECT * FRO..ddview_colleges..." />
+            <marker date="1447798326912" expanded="true" signature="594:627" placeholder="SELECT * FRO..ddview_degree_types..." />
+            <marker date="1447798326912" expanded="true" signature="655:687" placeholder="SELECT * FRO..ddview_major_types..." />
+            <marker date="1447798326912" expanded="true" signature="709:735" placeholder="SELECT * FRO..ddview_terms..." />
           </folding>
         </state>
       </provider>
@@ -487,28 +538,15 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
           <folding>
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_states..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_states..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_genders..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_veteran_status..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_veteran_statuses..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_mil_branch..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_mil_branches..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_ethnicities..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1447746930138" expanded="true" signature="239:392" placeholder="..." />
+            <marker date="1447746930138" expanded="true" signature="332:360" placeholder="..." />
+            <marker date="1447746930138" expanded="true" signature="478:505" placeholder="SELECT * FRO..ddview_states..." />
+            <marker date="1447746930138" expanded="true" signature="529:557" placeholder="SELECT * FRO..ddview_genders..." />
+            <marker date="1447746930138" expanded="true" signature="590:627" placeholder="SELECT * FRO..ddview_veteran_statuses..." />
+            <marker date="1447746930138" expanded="true" signature="656:689" placeholder="SELECT * FRO..ddview_mil_branches..." />
+            <marker date="1447746930138" expanded="true" signature="717:749" placeholder="SELECT * FRO..ddview_ethnicities..." />
+            <marker date="1447746930138" expanded="true" signature="8061:8314" placeholder="..." />
+            <marker date="1447746930138" expanded="true" signature="8093:8287" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -517,7 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -586,42 +623,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38043478">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84837544">
-          <caret line="185" column="1" selection-start-line="185" selection-start-column="1" selection-end-line="185" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/php/connection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.074019246">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/php/include_scripts.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.074019246">
           <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/php/html_head_tags.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05561735">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -629,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="58" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -637,9 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13904338">
           <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -647,15 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38932148">
           <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3483387">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,57 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47856316">
           <caret line="104" column="39" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
-          <folding>
-            <marker date="1447746067986" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746067986" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app_pg_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.617647">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_student_types..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_colleges..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_degree_types..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_major_types..." />
-            <marker date="1447746068003" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_terms..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app_pg_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.470589">
-          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-          <folding>
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_states..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_states..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_genders..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_veteran_status..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_veteran_statuses..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_mil_branch..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_mil_branches..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ddview_ethnicities..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447746930138" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -721,34 +662,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/doc/js.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.081081">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/doc/misc.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.25">
           <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/php/html_head_tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.294118">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/sql/views.sql">
+    <entry file="file://$PROJECT_DIR$/src/components/php/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.735294">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.511254">
+          <caret line="185" column="1" selection-start-line="185" selection-start-column="1" selection-end-line="185" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app_pg_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-119.05882">
+          <caret line="191" column="25" selection-start-line="191" selection-start-column="25" selection-end-line="191" selection-end-column="25" />
+          <folding>
+            <marker date="1447746930138" expanded="true" signature="239:392" placeholder="..." />
+            <marker date="1447746930138" expanded="true" signature="332:360" placeholder="..." />
+            <marker date="1447746930138" expanded="true" signature="478:505" placeholder="SELECT * FRO..ddview_states..." />
+            <marker date="1447746930138" expanded="true" signature="529:557" placeholder="SELECT * FRO..ddview_genders..." />
+            <marker date="1447746930138" expanded="true" signature="590:627" placeholder="SELECT * FRO..ddview_veteran_statuses..." />
+            <marker date="1447746930138" expanded="true" signature="656:689" placeholder="SELECT * FRO..ddview_mil_branches..." />
+            <marker date="1447746930138" expanded="true" signature="717:749" placeholder="SELECT * FRO..ddview_ethnicities..." />
+            <marker date="1447746930138" expanded="true" signature="8061:8314" placeholder="..." />
+            <marker date="1447746930138" expanded="true" signature="8093:8287" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app_pg_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42767295">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <marker date="1447798326912" expanded="true" signature="231:384" placeholder="..." />
+            <marker date="1447798326912" expanded="true" signature="324:352" placeholder="..." />
+            <marker date="1447798326912" expanded="true" signature="477:511" placeholder="SELECT * FRO..ddview_student_types..." />
+            <marker date="1447798326912" expanded="true" signature="536:565" placeholder="SELECT * FRO..ddview_colleges..." />
+            <marker date="1447798326912" expanded="true" signature="594:627" placeholder="SELECT * FRO..ddview_degree_types..." />
+            <marker date="1447798326912" expanded="true" signature="655:687" placeholder="SELECT * FRO..ddview_major_types..." />
+            <marker date="1447798326912" expanded="true" signature="709:735" placeholder="SELECT * FRO..ddview_terms..." />
+          </folding>
         </state>
       </provider>
     </entry>
